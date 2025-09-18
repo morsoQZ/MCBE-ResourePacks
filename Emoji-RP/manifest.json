@@ -1,0 +1,20 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Add Some Emojis to Your World!",
+		"name": "EmojiCraft",
+		"uuid": "1bd83552-cc0e-454e-a686-2c042ed97c16",
+		"version": [1, 0, 1],
+		"min_engine_version": [1, 21, 80]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "a3292a2c-d3c6-4947-bd63-7882281aa1b8",
+			"version": [1, 0, 1]
+		}
+	],
+	"metadata": {
+		"authors": ["morso"]
+	}
+}
